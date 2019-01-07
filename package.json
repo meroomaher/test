@@ -1,0 +1,25 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "test application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meroomaher/testapplication.git"
+  },
+  "keywords": [
+    "any"
+  ],
+  "author": "maher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meroomaher/testapplication/issues"
+  },
+  "homepage": "https://github.com/meroomaher/testapplication#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
